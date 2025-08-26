@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UR project/mine/push to Github/exercising_at_home/Exercise_Day_5_try_out_for_a_Tank/Exercise_for_a_Tank/Content/Tank/gukbang_color.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/Exercise_Day_5_try_out_for_a_Tank/Exercise_for_a_Tank/Content/Tank/tank.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/Exercise_Day_5_try_out_for_a_Tank/Exercise_for_a_Tank/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/XS/435B2V41O5IS5R6WM1DFEP.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/Exercise_Day_5_try_out_for_a_Tank/Exercise_for_a_Tank/Content/Tank/iron_black.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/Exercise_Day_5_try_out_for_a_Tank/Exercise_for_a_Tank/Content/Tank/Tank_Wheel.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/Exercise_Day_5_try_out_for_a_Tank/Exercise_for_a_Tank/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/75/RY2QLBXXLO3WCHL5GUT8XO.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/Exercise_Day_5_try_out_for_a_Tank/Exercise_for_a_Tank/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/6T/4211MBKZFX6C3GJISQ07CM.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/Exercise_Day_5_try_out_for_a_Tank/Exercise_for_a_Tank/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/BQ/42BHG2MYB926T2EEVB5ZFH.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/Exercise_Day_5_try_out_for_a_Tank/Exercise_for_a_Tank/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/V8/FV2L75EVEE6X8J2U6B2JLB.uasset"
+			]
+		}
+	]
+}

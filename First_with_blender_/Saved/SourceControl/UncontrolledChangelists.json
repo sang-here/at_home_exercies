@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/CookieTray.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/Cookie.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/CookieOnTray.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/SM_Cookie.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/SM_CookieOnTray.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/SM_CookieTray.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/BP_Cookie.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/JX/85FVM4UPA2YCV5X6R5NFU3.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/LW/CONQFGEB9UYP8JT6HKJ9O2.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/CleanOnes/BP_Cookie.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/CleanOnes/Material_001.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/CleanOnes/Material_002.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/CleanOnes/Material_003.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/CleanOnes/Material_004.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/CleanOnes/SM_Cookie.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/CleanOnes/SM_CookieOnTray.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/CleanOnes/SM_CookieTray.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/CleanOnes/BP_Tray.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/CleanOnes/BP_CuteTray.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/CleanOnes/BP_CookieOnTray.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/FromBlender/CleanOnes/NewBlueprint1.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/CookieGame/BP_Cookie_Game.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/CookieGame/BP_CookieOnTray_Game.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/CookieGame/BP_CuteTray_Game.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/CookieGame/BP_Tray_Game.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/0G/ZS43K40ICTJ6LUWLB8FKC5.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/BF/E19WFBZZ9SNLBQDB0NBM0F.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/First_with_blender_/Content/ThirdPerson/_GENERATED/user/Box_C4967CE3.uasset"
+			]
+		}
+	]
+}

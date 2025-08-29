@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/D8_Silseup/BP_Timer.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/FK/R85W85F3Z4QOEACC9ZY434.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/D8_Silseup/BP_Switch.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/D8_Silseup/IA_PressF.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/Input/IMC_Default.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/D8_Silseup/BPI_switch.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/YE/1S7YXICQERD3N3HL6S4YS6.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/Input/Actions/IA_Jump.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/D8_Silseup/BP_CountBox.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/X0/L6CO0VPHV39668P9TQ9MLV.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/D8_Silseup/BP_CanonBall.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/D8_Silseup/BP_Canon.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/OF/TJ34121C5TF1SJ0IW6LALM.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/D8_Silseup/M_Translucent.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/D8_Silseup/U_BW_Hud.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/D8_Silseup/BP_Coin.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/D8_Silseup/BP_Hud_is_in_ThirdPersonBlueprint.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/ThirdPerson/Blueprints/BP_Hud.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/P9/40GGWBD6I65WS2PHZ25MEL.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/D8_Silseup/CoinFromBlender/CoinForUE.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/Ex_1_Day_8/Content/D8_Silseup/BPI_switch.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/Ex_1_Day_8/Content/D8_Silseup/BP_Canon.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/Ex_1_Day_8/Content/ThirdPerson/Blueprints/BP_Hud.uasset",
+				"C:/UR project/mine/push to Github/exercising_at_home/Ex_1_Day_8/Content/D8_Silseup/U_BW_Hud.uasset",
+				"C:/UR project/mine/push to Github/the_better_one/Ex_1_Day_8/Content/D8_Silseup/BP_Hud.uasset"
+			]
+		}
+	]
+}
